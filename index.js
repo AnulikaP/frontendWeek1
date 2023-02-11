@@ -1,3 +1,4 @@
+ console.log(10 * 20);
  
 
 //My name is Anulika Nnedu
@@ -6,7 +7,7 @@
 //My favorite color is white
 //My countries independence was in 1960
 
-let firstname = 'Anulika';
+let firstname = 'Anulika'; 
 let lastname = 'Nnedu';
 let StuternTrack = 'FrontendDev';
 let skills = 'html,css,git/github';
